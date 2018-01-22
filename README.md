@@ -18,7 +18,7 @@ Running the application
 To run the application :
   * mvn clean install
   * java -jar target/challenge-1.0.0.jar
-  * open your browser at http://localhost:8080
+  * open your browser at http://localhost:8080/swagger-ui.html
   
 Flyway will handle the schema and database creation and insert some data.
   
