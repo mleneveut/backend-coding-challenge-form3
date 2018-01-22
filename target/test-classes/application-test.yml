@@ -1,6 +1,0 @@
-spring:
-  datasource:
-    url: jdbc:postgresql://localhost:5432/form3?currentSchema=${mock.defaultSchema}
-
-mock:
-  defaultSchema: tests

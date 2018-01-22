@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: tech.form3.challenge.CucumberTest
--------------------------------------------------------------------------------
-Tests run: 19, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.258 sec - in tech.form3.challenge.CucumberTest
